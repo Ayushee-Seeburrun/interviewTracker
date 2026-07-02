@@ -91,7 +91,7 @@ http://127.0.0.1:8000/
 If port `8000` is busy:
 
 ```bash
-uvicorn main:app --reload --port 8010
+uvicorn main:app --reload --port 8001
 ```
 
 ## How It Works
